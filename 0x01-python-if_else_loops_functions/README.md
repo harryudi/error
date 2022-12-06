@@ -1,1 +1,1 @@
-non empty
+# Solution to tasks on conditionals & loops
